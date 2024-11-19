@@ -1,5 +1,5 @@
 # Bank-Test
-A project for Intro to Programing which creates and manages a single Bank Account.
+A project for my Intro to Programing course which creates and manages a single Bank Account.
 
 Part 1 is the more basic structure of the program, setting up the main program loop with the basic core functionality of the program. 
 
